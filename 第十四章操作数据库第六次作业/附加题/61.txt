@@ -1,0 +1,11 @@
+{"case_bidder":"安徽国华建设工程项目管理有限公司","case_buyer":"歙县城乡规划局","case_amount"="1590000"}
+{"case_bidder":"保定金迪地下管线探测工程有限公司","case_buyer":"邢台市规划局","case_amount"="112.3万元"}
+{"case_bidder":"北京中农信达信息技术有限公司","case_buyer":"临漳县委农村工作委员会","case_amount"="60.8万元"}
+{"case_bidder":"苍穹数码技术股份有限公司","case_buyer":"黄山市国土资源局","case_amount"="2435000"}
+{"case_bidder":"山东华地测绘地理信息有限公司","case_buyer":"威海市国土资源局","case_amount"="592000"}
+{"case_bidder":"北京理工大学珠海学院","case_buyer":"宜城市农业局","case_amount"="2.8万元"}
+{"case_bidder":"山东正元地球物理信息技术有限公司","case_buyer":"济宁市城乡规划局","case_amount"="3206678"}
+{"case_bidder":"滨州北海新区智慧城市建设项目中亿信息技术有限公司","case_buyer":"滨州北海经济开发区规划建设局","case_amount"="273800000"}
+{"case_bidder":"河北中色测绘有限公司","case_buyer":"北京市规划委员会","case_amount"="56.25万元"}
+{"case_bidder":"苏州规划设计研究院股份有限公司","case_buyer":"苏州工业园区规划建设委员会","case_amount"="3950000.00"}
+
