@@ -1,0 +1,33 @@
+CREATE TABLE `data100` (
+  `id` varchar(255) DEFAULT NULL,
+  `name` varchar(255) DEFAULT NULL,
+  `grade` varchar(255) DEFAULT NULL,
+  `class1` varchar(255) DEFAULT NULL,
+  `class2` varchar(255) DEFAULT NULL,
+  `class3` varchar(255) DEFAULT NULL,
+  `class4` varchar(255) DEFAULT NULL,
+  `class5` varchar(255) DEFAULT NULL,
+  `class6` varchar(255) DEFAULT NULL,
+  `class7` varchar(255) DEFAULT NULL,
+  `class8` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+select * from data1 where id=2;
+select class1 from data1; drop table data1
+select class1+class8 from data1;
+select id,class1+class2 from data1;
+select grade,avg(class1),avg(class2) from data1 group by grade;
+select grade,avg(class1),avg(class2) from data1 group by grade;
+select `name`,avg(class1),avg(class2) from data1 group by `name`;
+insert into data1(id,name,grade,class1,class2,class3,class4,class5,class6,class7,class8) 
+VALUES(100000,'zhou',2021,100,100,100,100,100,100,100,100)
+select * from data1 where id=100000;
+DELETE from data1 where id=100000;
+UPDATE data1 set grade=2020 where id=100000;
+
+
+
+
+
+
