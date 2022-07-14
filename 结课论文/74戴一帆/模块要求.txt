@@ -1,0 +1,4 @@
+random
+PyQt6
+打包：auto-py-to-exe
+图标要求128*128 or 64*64 ico或png
